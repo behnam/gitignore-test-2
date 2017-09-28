@@ -1,0 +1,5 @@
+*.txt
+../def/*.txt
+../ghi
+/jkl
+mno
